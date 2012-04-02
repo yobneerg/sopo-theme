@@ -21,8 +21,8 @@ Change it, enhance it and most importantly enjoy it!
 	$MetaTags(false)
 	<% require themedCSS(reset) %>
 	<% require themedCSS(typography) %>
+	<% require themedCSS(form) %>	
 	<% require themedCSS(layout) %>
-	<% require themedCSS(tabstrip) %>	
 	<link rel="shortcut icon" href="$ThemeDir/images/favicon.ico" />
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
