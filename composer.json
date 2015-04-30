@@ -1,13 +1,13 @@
 {
-    "name": "silverstripe-themes/simple",
+    "name": "yobneerg/sopo-theme",
     "description": "The SilverStripe simple theme (default SilverStripe 3 theme)",
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "theme"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Sara Tušar (Innovaif)",
-            "homepage": "http://www.saratusar.com"
+            "name": "Marshall Baxter",
+            "homepage": "http://www.sopo.me"
         }
     ],
     "require": {
